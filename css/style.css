@@ -1,7 +1,20 @@
 p{ 
 color: #8C45ED;
+font-family: Helvetica;
 }
 
 #maisimportante {
 Color:red;
 }
+
+Body{
+	margin:50px;
+	padding:10px;
+	background-color: #E0DDCC;
+}
+h1{
+	font-size: 80px;
+	border: 1px solid blue;
+	padding:50px;
+}
+
